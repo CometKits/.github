@@ -18,6 +18,7 @@ Some of the software side concepts that can be learned from this program include
 - Functions
 - Loops
 - Basic C++ Syntax
+
 Some of the more complex concepts include
 - Analog and Digital Sensors
 - PIDs
