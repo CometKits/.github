@@ -10,7 +10,7 @@ Comet Kits is a STEM Program that is targeted at elementry level kids. The progr
 ## Authors
 
 - [@DevMello](https://www.github.com/DevMello)
-- [@8872](https://www.github.com/8872)
+  
 
 ## Concepts
 Some of the software side concepts that can be learned from this program include
